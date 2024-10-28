@@ -14,6 +14,13 @@
 As a Data Analyst at Accenture, I just Completed a simulation focused on advising a hypothetical social media client who wants an analysis of the top 5 content category with the largest aggregate popularity in there database.
 Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
 Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+
+![Screenshot_20241028-061933_1](https://github.com/user-attachments/assets/4447eefd-072d-4011-9544-d320c8518425)
+
+
+
+
+
 ### Data Source
 Source: Direct extract from Amplitude, it contained 7 dataset and a data modal sent by the company.
 ### Tools
